@@ -79,7 +79,7 @@ If you don't have a Claude Project yet: create one (Claude Pro or higher). Skill
 
 Built and used in production by Marco De Luca Gaetani, UX/UI designer, while writing long-form content with Claude. Released free because most existing humanizers solve the wrong problem.
 
-The reasoning behind the skill: [link to LinkedIn post]
+The reasoning behind the skill: (https://www.linkedin.com/feed/update/urn:li:activity:7463169161188392960/)
 
 ---
 
